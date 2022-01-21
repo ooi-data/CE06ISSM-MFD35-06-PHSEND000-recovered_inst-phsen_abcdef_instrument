@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE06ISSM-MFD35-06-PHSEND000-recovered_inst-phsen_abcdef_instrument
-last_request: '2022-01-21T03:04:31.476567Z'
+last_request: '2022-01-21T18:45:10.702004Z'
 response: https://raw.githubusercontent.com/ooi-data/CE06ISSM-MFD35-06-PHSEND000-recovered_inst-phsen_abcdef_instrument/main/history/response.json
-status: failed
+status: pending
